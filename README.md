@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/12/1 12:00 AM UTC
+			2023/12/2 12:00 AM UTC
 		</td>
 		<td>
-			41
+			42
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/434670985/small/year.png" height="20"> 451
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/434670985/small/year.png" height="20"> 452
 		</td>
 	</tr>
 	<tr>
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/12/1 1:01 AM UTC
+			2023/12/2 12:55 AM UTC
 		</td>
 		<td>
 			3
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/12/1 1:01 AM UTC
+			2023/12/2 12:55 AM UTC
 		</td>
 		<td>
 			2
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/12/1 1:01 AM UTC
+			2023/12/2 12:55 AM UTC
 		</td>
 		<td>
 			4
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/12/1 1:01 AM UTC
+			2023/12/2 12:55 AM UTC
 		</td>
 		<td>
 			5
@@ -106,13 +106,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/12/1 12:00 AM UTC
+			2023/12/2 12:00 AM UTC
 		</td>
 		<td>
-			13
+			23
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/441395757/small/year.png" height="20"> 189
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/441395757/small/year.png" height="20"> 252
 		</td>
 	</tr>
 	<tr>
@@ -122,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/12/1 1:01 AM UTC
+			2023/12/2 12:55 AM UTC
 		</td>
 		<td>
 			1
@@ -138,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/12/1 1:01 AM UTC
+			2023/12/2 12:55 AM UTC
 		</td>
 		<td>
 			1
@@ -154,13 +154,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/12/1 1:02 AM UTC
+			2023/12/2 12:00 AM UTC
 		</td>
 		<td>
-			1
+			4
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/567431330/small/year.png" height="20"> 1
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/567431330/small/year.png" height="20"> 124
 		</td>
 	</tr>
 	<tr>
@@ -170,7 +170,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/12/1 1:02 AM UTC
+			2023/12/2 12:55 AM UTC
 		</td>
 		<td>
 			13
@@ -186,7 +186,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/12/1 1:02 AM UTC
+			2023/12/2 12:55 AM UTC
 		</td>
 		<td>
 			18
@@ -202,7 +202,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/12/1 1:02 AM UTC
+			2023/12/2 12:55 AM UTC
 		</td>
 		<td>
 			2
@@ -218,18 +218,178 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/12/1 1:02 AM UTC
+			2023/12/2 12:00 AM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/316180162/small/year.png" height="20"> 10
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/682451803/year.md">
+				top-github-users
+			</a>
+		</td>
+		<td>
+			2023/12/1 12:57 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/682451803/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/726455563/year.md">
+				AOC-leaderboard
+			</a>
+		</td>
+		<td>
+			2023/12/1 12:57 AM UTC
 		</td>
 		<td>
 			3
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/316180162/small/year.png" height="20"> 9
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/726455563/small/year.png" height="20"> 4
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/567431330/year.md">
+				AdventCode-Kotlin
+			</a>
+		</td>
+		<td>
+			2023/12/2 12:00 AM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/567431330/small/year.png" height="20"> 124
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/556573537/year.md">
+				Portfolio
+			</a>
+		</td>
+		<td>
+			2023/12/1 12:57 AM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/556573537/small/year.png" height="20"> 6
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/396473931/year.md">
+				SaleforceBank
+			</a>
+		</td>
+		<td>
+			2023/12/1 12:57 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/396473931/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/702030107/year.md">
+				Meta-Hacker-cup
+			</a>
+		</td>
+		<td>
+			2023/12/1 12:57 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/702030107/small/year.png" height="20"> 3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/713908532/year.md">
+				QuranNScience
+			</a>
+		</td>
+		<td>
+			2023/12/1 12:57 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/713908532/small/year.png" height="20"> 5
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/578048211/year.md">
+				QURAN-NLP
+			</a>
+		</td>
+		<td>
+			2023/12/2 12:55 AM UTC
+		</td>
+		<td>
+			13
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/578048211/small/year.png" height="20"> 60
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/580547984/year.md">
+				advent-readme-stars
+			</a>
+		</td>
+		<td>
+			2023/12/1 12:57 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/580547984/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/580035668/year.md">
+				aoc-ranking
+			</a>
+		</td>
+		<td>
+			2023/12/1 12:57 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/580035668/small/year.png" height="20"> 1
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/12/3 10:01 AM UTC</i></small>
+<small><i>Last updated on 2023/12/4 12:57 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
