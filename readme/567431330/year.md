@@ -1,5 +1,6 @@
 ## [🔙 Views](https://github.com/MuhammadSaadSiddique/Views)
-
+| [**Week →**](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/567431330/week.md) | [**Month →**](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/567431330/month.md) | [**Year →**](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/567431330/year.md) |
+| ---- | ---- | ----- |
 ### :octocat: [AdventCode-Kotlin](https://github.com/MuhammadSaadSiddique/AdventCode-Kotlin)
 ![Image of Views](https://github.com/MuhammadSaadSiddique/Views/blob/master/graph/567431330/large/year.png)
 
@@ -164,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/12/27 12:55 AM UTC</i></small>
+<small><i>Last updated on 2023/12/27 8:26 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +174,9 @@
 [![Image of Views](https://github.com/MuhammadSaadSiddique/Views/blob/master/svg/567431330/badge.svg)](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/567431330/week.md)
 ```
 ### Header
-# AdventCode-Kotlin [<img alt="Image of Views" src="https://github.com/MuhammadSaadSiddique/Views/blob/master/graph/567431330/small/year.png" height="20">](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/567431330/year.md)
+# AdventCode-Kotlin [<img alt="Image of Views" src="https://github.com/MuhammadSaadSiddique/Views/blob/master/graph/567431330/small/week.png" height="20">](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/567431330/week.md)
 ```readme
-# AdventCode-Kotlin [<img alt="Image of Views" src="https://github.com/MuhammadSaadSiddique/Views/blob/master/graph/567431330/small/year.png" height="20">](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/567431330/year.md)
+# AdventCode-Kotlin [<img alt="Image of Views" src="https://github.com/MuhammadSaadSiddique/Views/blob/master/graph/567431330/small/week.png" height="20">](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/567431330/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

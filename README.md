@@ -21,7 +21,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/434670985/year.md">
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/434670985/week.md">
 				MuhammadSaadSiddique
 			</a>
 		</td>
@@ -32,12 +32,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			64
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/434670985/small/year.png" height="20"> 736
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/434670985/small/week.png" height="20"> 736
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/556226503/year.md">
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/556226503/week.md">
 				Fashionate
 			</a>
 		</td>
@@ -48,12 +48,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			4
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/556226503/small/year.png" height="20"> 18
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/556226503/small/week.png" height="20"> 18
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/526719056/year.md">
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/526719056/week.md">
 				python-craigslist
 			</a>
 		</td>
@@ -64,12 +64,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			2
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/526719056/small/year.png" height="20"> 2
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/526719056/small/week.png" height="20"> 2
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/527266453/year.md">
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/527266453/week.md">
 				hCaptchaSolverApi
 			</a>
 		</td>
@@ -80,12 +80,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			4
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/527266453/small/year.png" height="20"> 8
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/527266453/small/week.png" height="20"> 8
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/507267464/year.md">
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/507267464/week.md">
 				Evoting
 			</a>
 		</td>
@@ -96,12 +96,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			5
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/507267464/small/year.png" height="20"> 68
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/507267464/small/week.png" height="20"> 68
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/441395757/year.md">
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/441395757/week.md">
 				AdventofCode
 			</a>
 		</td>
@@ -112,12 +112,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			272
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/441395757/small/year.png" height="20"> 2161
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/441395757/small/week.png" height="20"> 2161
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/581472742/year.md">
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/581472742/week.md">
 				Semantic-Search-AI-Hackathon
 			</a>
 		</td>
@@ -128,12 +128,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			1
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/581472742/small/year.png" height="20"> 1
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/581472742/small/week.png" height="20"> 1
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/362981091/year.md">
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/362981091/week.md">
 				IM3ch
 			</a>
 		</td>
@@ -144,12 +144,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			1
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/362981091/small/year.png" height="20"> 1
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/362981091/small/week.png" height="20"> 1
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/567431330/year.md">
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/567431330/week.md">
 				AdventCode-Kotlin
 			</a>
 		</td>
@@ -160,12 +160,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			9
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/567431330/small/year.png" height="20"> 152
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/567431330/small/week.png" height="20"> 152
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/578048211/year.md">
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/578048211/week.md">
 				QURAN-NLP
 			</a>
 		</td>
@@ -176,12 +176,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			14
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/578048211/small/year.png" height="20"> 61
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/578048211/small/week.png" height="20"> 61
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/546116981/year.md">
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/546116981/week.md">
 				lets-explore
 			</a>
 		</td>
@@ -192,12 +192,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			19
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/546116981/small/year.png" height="20"> 32
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/546116981/small/week.png" height="20"> 32
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/447688402/year.md">
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/447688402/week.md">
 				DiseaseWiseDietPlan
 			</a>
 		</td>
@@ -208,12 +208,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			3
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/447688402/small/year.png" height="20"> 8
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/447688402/small/week.png" height="20"> 8
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/316180162/year.md">
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/316180162/week.md">
 				Codding-Problems
 			</a>
 		</td>
@@ -224,12 +224,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			7
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/316180162/small/year.png" height="20"> 13
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/316180162/small/week.png" height="20"> 13
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/682451803/year.md">
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/682451803/week.md">
 				top-github-users
 			</a>
 		</td>
@@ -240,12 +240,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			14
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/682451803/small/year.png" height="20"> 189
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/682451803/small/week.png" height="20"> 189
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/726455563/year.md">
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/726455563/week.md">
 				AOC-leaderboard
 			</a>
 		</td>
@@ -256,12 +256,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			24
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/726455563/small/year.png" height="20"> 239
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/726455563/small/week.png" height="20"> 239
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/567431330/year.md">
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/567431330/week.md">
 				AdventCode-Kotlin
 			</a>
 		</td>
@@ -272,12 +272,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			9
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/567431330/small/year.png" height="20"> 152
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/567431330/small/week.png" height="20"> 152
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/556573537/year.md">
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/556573537/week.md">
 				Portfolio
 			</a>
 		</td>
@@ -288,12 +288,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			8
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/556573537/small/year.png" height="20"> 27
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/556573537/small/week.png" height="20"> 27
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/396473931/year.md">
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/396473931/week.md">
 				SaleforceBank
 			</a>
 		</td>
@@ -304,12 +304,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			1
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/396473931/small/year.png" height="20"> 2
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/396473931/small/week.png" height="20"> 2
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/702030107/year.md">
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/702030107/week.md">
 				Meta-Hacker-cup
 			</a>
 		</td>
@@ -320,12 +320,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			3
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/702030107/small/year.png" height="20"> 5
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/702030107/small/week.png" height="20"> 5
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/713908532/year.md">
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/713908532/week.md">
 				QuranNScience
 			</a>
 		</td>
@@ -336,12 +336,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			11
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/713908532/small/year.png" height="20"> 50
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/713908532/small/week.png" height="20"> 50
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/578048211/year.md">
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/578048211/week.md">
 				QURAN-NLP
 			</a>
 		</td>
@@ -352,12 +352,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			14
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/578048211/small/year.png" height="20"> 61
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/578048211/small/week.png" height="20"> 61
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/580547984/year.md">
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/580547984/week.md">
 				advent-readme-stars
 			</a>
 		</td>
@@ -368,12 +368,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			35
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/580547984/small/year.png" height="20"> 1922
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/580547984/small/week.png" height="20"> 1922
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/580035668/year.md">
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/580035668/week.md">
 				aoc-ranking
 			</a>
 		</td>
@@ -384,12 +384,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			4
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/580035668/small/year.png" height="20"> 92
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/580035668/small/week.png" height="20"> 92
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/12/27 12:55 AM UTC</i></small>
+<small><i>Last updated on 2023/12/27 8:27 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

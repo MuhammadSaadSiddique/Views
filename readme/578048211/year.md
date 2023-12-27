@@ -1,5 +1,6 @@
 ## [🔙 Views](https://github.com/MuhammadSaadSiddique/Views)
-
+| [**Week →**](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/578048211/week.md) | [**Month →**](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/578048211/month.md) | [**Year →**](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/578048211/year.md) |
+| ---- | ---- | ----- |
 ### :octocat: [QURAN-NLP](https://github.com/MuhammadSaadSiddique/QURAN-NLP)
 ![Image of Views](https://github.com/MuhammadSaadSiddique/Views/blob/master/graph/578048211/large/year.png)
 
@@ -164,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/12/27 12:55 AM UTC</i></small>
+<small><i>Last updated on 2023/12/27 8:27 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +174,9 @@
 [![Image of Views](https://github.com/MuhammadSaadSiddique/Views/blob/master/svg/578048211/badge.svg)](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/578048211/week.md)
 ```
 ### Header
-# QURAN-NLP [<img alt="Image of Views" src="https://github.com/MuhammadSaadSiddique/Views/blob/master/graph/578048211/small/year.png" height="20">](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/578048211/year.md)
+# QURAN-NLP [<img alt="Image of Views" src="https://github.com/MuhammadSaadSiddique/Views/blob/master/graph/578048211/small/week.png" height="20">](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/578048211/week.md)
 ```readme
-# QURAN-NLP [<img alt="Image of Views" src="https://github.com/MuhammadSaadSiddique/Views/blob/master/graph/578048211/small/year.png" height="20">](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/578048211/year.md)
+# QURAN-NLP [<img alt="Image of Views" src="https://github.com/MuhammadSaadSiddique/Views/blob/master/graph/578048211/small/week.png" height="20">](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/578048211/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

@@ -1,5 +1,6 @@
 ## [🔙 Views](https://github.com/MuhammadSaadSiddique/Views)
-
+| [**Week →**](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/580547984/week.md) | [**Month →**](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/580547984/month.md) | [**Year →**](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/580547984/year.md) |
+| ---- | ---- | ----- |
 ### :octocat: [advent-readme-stars](https://github.com/MuhammadSaadSiddique/advent-readme-stars)
 ![Image of Views](https://github.com/MuhammadSaadSiddique/Views/blob/master/graph/580547984/large/year.png)
 
@@ -23,10 +24,10 @@
 			<code>2023/12/1</code>
 		</td>
 		<td>
-			<code>35</code>
+			<code>36</code>
 		</td>
 		<td>
-			<code>1946</code>
+			<code>1947</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/12/27 12:55 AM UTC</i></small>
+<small><i>Last updated on 2023/12/27 8:27 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +174,9 @@
 [![Image of Views](https://github.com/MuhammadSaadSiddique/Views/blob/master/svg/580547984/badge.svg)](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/580547984/week.md)
 ```
 ### Header
-# advent-readme-stars [<img alt="Image of Views" src="https://github.com/MuhammadSaadSiddique/Views/blob/master/graph/580547984/small/year.png" height="20">](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/580547984/year.md)
+# advent-readme-stars [<img alt="Image of Views" src="https://github.com/MuhammadSaadSiddique/Views/blob/master/graph/580547984/small/week.png" height="20">](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/580547984/week.md)
 ```readme
-# advent-readme-stars [<img alt="Image of Views" src="https://github.com/MuhammadSaadSiddique/Views/blob/master/graph/580547984/small/year.png" height="20">](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/580547984/year.md)
+# advent-readme-stars [<img alt="Image of Views" src="https://github.com/MuhammadSaadSiddique/Views/blob/master/graph/580547984/small/week.png" height="20">](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/580547984/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

@@ -1,5 +1,6 @@
 ## [🔙 Views](https://github.com/MuhammadSaadSiddique/Views)
-
+| [**Week →**](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/447688402/week.md) | [**Month →**](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/447688402/month.md) | [**Year →**](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/447688402/year.md) |
+| ---- | ---- | ----- |
 ### :octocat: [DiseaseWiseDietPlan](https://github.com/MuhammadSaadSiddique/DiseaseWiseDietPlan)
 ![Image of Views](https://github.com/MuhammadSaadSiddique/Views/blob/master/graph/447688402/large/year.png)
 
@@ -164,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/12/27 12:55 AM UTC</i></small>
+<small><i>Last updated on 2023/12/27 8:26 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +174,9 @@
 [![Image of Views](https://github.com/MuhammadSaadSiddique/Views/blob/master/svg/447688402/badge.svg)](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/447688402/week.md)
 ```
 ### Header
-# DiseaseWiseDietPlan [<img alt="Image of Views" src="https://github.com/MuhammadSaadSiddique/Views/blob/master/graph/447688402/small/year.png" height="20">](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/447688402/year.md)
+# DiseaseWiseDietPlan [<img alt="Image of Views" src="https://github.com/MuhammadSaadSiddique/Views/blob/master/graph/447688402/small/week.png" height="20">](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/447688402/week.md)
 ```readme
-# DiseaseWiseDietPlan [<img alt="Image of Views" src="https://github.com/MuhammadSaadSiddique/Views/blob/master/graph/447688402/small/year.png" height="20">](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/447688402/year.md)
+# DiseaseWiseDietPlan [<img alt="Image of Views" src="https://github.com/MuhammadSaadSiddique/Views/blob/master/graph/447688402/small/week.png" height="20">](https://github.com/MuhammadSaadSiddique/Views/blob/master/readme/447688402/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
