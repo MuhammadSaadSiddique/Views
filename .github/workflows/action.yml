@@ -17,3 +17,10 @@ jobs:
       - uses: formidablae/github-profile-views-counter-action@3.2.0
         env:
           INSIGHTS_TOKEN: ${{ secrets.INSIGHTS_TOKEN }}
+      - name: Commit & Push
+        run: |
+          git config user.name "View Counter"
+          git config --global user.email "26270646+MuhammadSaadSiddique@users.noreply.github.com"
+          git add -A .
+          git commit -m "Add view Counter"
+          git push
