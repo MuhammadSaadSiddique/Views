@@ -37,6 +37,102 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/1214109294/week.md">
+				nur-al-quran-and-seerah-daily
+			</a>
+		</td>
+		<td>
+			2026/11/20 12:00 AM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/1214109294/small/week.png" height="20"> 25
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/1452465847/week.md">
+				route-optimizer
+			</a>
+		</td>
+		<td>
+			2026/11/20 12:00 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/1452465847/small/week.png" height="20"> 10
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/682451803/week.md">
+				top-github-users
+			</a>
+		</td>
+		<td>
+			2026/11/21 5:39 AM UTC
+		</td>
+		<td>
+			161
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/682451803/small/week.png" height="20"> 484
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/507267464/week.md">
+				Evoting
+			</a>
+		</td>
+		<td>
+			2026/11/21 5:38 AM UTC
+		</td>
+		<td>
+			21
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/507267464/small/week.png" height="20"> 181
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/835590528/week.md">
+				LearnWithAI
+			</a>
+		</td>
+		<td>
+			2026/11/20 12:00 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/835590528/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/1211681385/week.md">
+				IslamiCharity
+			</a>
+		</td>
+		<td>
+			2026/11/20 12:00 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/MuhammadSaadSiddique/Views/raw/master/graph/1211681385/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/MuhammadSaadSiddique/Views/tree/master/readme/556226503/week.md">
 				Fashionate
 			</a>
@@ -389,7 +485,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/11/23 5:47 AM UTC</i></small>
+<small><i>Last updated on 2026/11/23 5:30 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
